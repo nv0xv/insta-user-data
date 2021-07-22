@@ -6,6 +6,6 @@
 
 # Install And Run .
 
-1 - git clone https://github.com/nv0xv/insta-user-data
-2 - cd insta-user-data
-3 - python3 insta-data.py
+# 1 - git clone https://github.com/nv0xv/insta-user-data
+# 2 - cd insta-user-data
+# 3 - python3 insta-data.py
